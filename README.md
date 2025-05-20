@@ -1,3 +1,3 @@
 # Task Tracker 
 
-this is a demo project for my git tutorial 
+This is a demo project for my Git tutorial 
